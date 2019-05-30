@@ -1,5 +1,5 @@
 # Class_for_scraping
- Create a utils.py file which will have the following classes/functions defined:
+ The utils.py file has the following classes/functions defined:
 1. Scrape_All class, which will scrape from a given page all:
 a. hyperlinks (<a>) and provide the absolute link if relative one is given in the page,
 b. headings and paragraphs and merge them inside one string with a new line between different headings/paragraphs, without distorting order).
@@ -16,4 +16,4 @@ b. lemmatize, clean stopwords,
 c. make plural/singular,
 d. uppercase/lowercase,
 e. draw frequency distributions of words.
-4. (0.5 points) Use utils.py, Wikipedia API and a sample Wikipedia article to test your objects/methods..
+4. (0.5 points) Use utils.py, Wikipedia API and a sample Wikipedia article to test my objects/methods..
